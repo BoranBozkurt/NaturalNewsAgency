@@ -1,0 +1,10 @@
+[
+    {
+        "url": "https://www.sozcu.com",
+        "content" : "Turkiye cumhurbaşkanı 10 tane gazeteciyi içeri attı!"   
+    },
+    {
+        "url": "https://www.akit.com",
+        "content" : "Terörle ilişkisi ortaya çıkan popüler 10 gazeteci hücreyi boyladı!" 
+    }
+]
